@@ -1,5 +1,6 @@
 # tasks
 
+<pre>
 TASK 1 
 ------
 
@@ -28,3 +29,4 @@ REGISTRATION -- username, First Name, Last Name, email id field, password, confi
 
 Proper Validations
 Normal form w/h ajax
+</pre>
